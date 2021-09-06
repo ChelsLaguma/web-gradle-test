@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-06T10:55:44" hostname="CHELSEAL-PC" time="70.849">
+  <properties/>
+  <testcase name="loginSuccessfully" classname="Login.LoginTest" time="70.849"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

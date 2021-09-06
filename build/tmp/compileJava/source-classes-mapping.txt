@@ -1,0 +1,10 @@
+Pages/DashboardPage.java
+ Pages.DashboardPage
+Pages/HomePage.java
+ Pages.HomePage
+Common/TestData.java
+ Common.TestData
+Pages/SignUpPage.java
+ Pages.SignUpPage
+Pages/LoginPage.java
+ Pages.LoginPage
